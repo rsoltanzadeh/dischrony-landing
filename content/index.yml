@@ -1,55 +1,56 @@
-title: Nuxt UI Pro - Landing template
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+title: Dischrony
+description: Dischrony is a community around chronic diseases with a strong focus on science and personal health.
 hero:
-  title: Build your landing in seconds
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
-  headline:
-    label: Made with Nuxt UI Pro
-    to: https://ui.nuxt.com/pro
-    icon: i-heroicons-arrow-top-right-on-square-20-solid
+  title: Join a revolution
+  description: Dischrony is a driven community of people of all levels of experience and expertise with a shared interest of
+   understanding, preventing, and fighting chronic diseases.
+  # headline:
+  #   label: Made with Nuxt UI Pro
+  #   to: https://ui.nuxt.com/pro
+  #   icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
     - label: Get started
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
       to: '#features'
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
+    - label: Join for free
+      icon: i-heroicons-user-group-20-solid
       size: xl
       color: gray
-      to: https://github.com/nuxt-ui-pro/landing
+      to: https://www.skool.com/dischrony
       target: _blank
-logos:
-  title: Trusted by the world's best
-  icons:
-    - i-simple-icons-amazonaws
-    - i-simple-icons-heroku
-    - i-simple-icons-netlify
-    - i-simple-icons-vercel
-    - i-simple-icons-cloudflare
+# logos:
+#   title: Trusted by the world's best
+#   icons:
+#     - i-simple-icons-amazonaws
+#     - i-simple-icons-heroku
+#     - i-simple-icons-netlify
+#     - i-simple-icons-vercel
+#     - i-simple-icons-cloudflare
 features:
   headline: Features
-  title: Why choose our service?
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  title: What's included?
+  description: 
   items:
-    - title: Easy to use
-      description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
-      icon: i-heroicons-cog
-    - title: Reliable
-      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
-      icon: i-heroicons-check
-    - title: Secure
-      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
-      icon: i-heroicons-lock-closed
-    - title: Fast
-      description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
-      icon: i-heroicons-rocket-launch
-    - title: Affordable
-      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+    - title: User-friendly
+      description: The community is hosted on Skool, a platform designed specifically for educational communities.
+      icon: i-heroicons-face-smile
+    - title: High quality
+      description: Enjoy a game-theoretical incentive system that rewards good posts and punishes spam and noise. 
+      icon: i-heroicons-bolt
+    - title: Information retention
+      description: Looking for something you read years ago? Old posts remain accessible through a well-designed search function.
+      icon: i-heroicons-book-open
+    - title: Complete
+      description: The community is much more than feed of posts. It includes event calendars, classrooms, and more.
+      icon: i-heroicons-rectangle-stack
+    - title: Fun
+      description: Compete in the community leaderboards by writing great posts that help or inspire others.
+      icon: i-heroicons-trophy
+    - title: Free
+      description: The mission is to accelerate the science of chronic disease. The community has no barrier to entry; it is completely free.
       icon: i-heroicons-currency-dollar
-    - title: Scalable
-      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
-      icon: i-heroicons-chart-bar
 pricing:
   headline: Pricing
   title: A plan for every need
@@ -149,11 +150,14 @@ testimonials:
           src: https://i.pravatar.cc/120?img=9
           loading: lazy
 cta:
-  title: Get started today
-  description: Nisi mollit id aliquip sunt est laborum sit sit.
+  title: This is your official invitation
+  description:
   links:
-    - label: Sign up for free
+    - label: Join for free
       size: xl
+      icon: i-heroicons-user-group-20-solid
+      to: https://www.skool.com/dischrony
+      target: _blank
 faq:
   title: Frequently asked questions
   description: Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.

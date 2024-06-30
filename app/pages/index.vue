@@ -45,9 +45,9 @@ useSeoMeta({
         </UBadge>
       </template>
 
-      <ImagePlaceholder />
+      <NuxtImg width="800" class="mx-auto" src="/IconOnly_Transparent.png" />
 
-      <ULandingLogos
+      <!-- <ULandingLogos
         :title="page.logos.title"
         align="center"
       >
@@ -57,7 +57,7 @@ useSeoMeta({
           :name="icon"
           class="w-12 h-12 lg:w-16 lg:h-16 flex-shrink-0 text-gray-900 dark:text-white"
         />
-      </ULandingLogos>
+      </ULandingLogos> -->
     </ULandingHero>
 
     <ULandingSection
@@ -76,7 +76,7 @@ useSeoMeta({
         />
       </UPageGrid>
     </ULandingSection>
-
+<!-- 
     <ULandingSection
       :title="page.pricing.title"
       :description="page.pricing.description"
@@ -93,8 +93,8 @@ useSeoMeta({
           v-bind="plan"
         />
       </UPricingGrid>
-    </ULandingSection>
-
+    </ULandingSection> -->
+<!-- 
     <ULandingSection
       :headline="page.testimonials.headline"
       :title="page.testimonials.title"
@@ -112,7 +112,7 @@ useSeoMeta({
           <ULandingTestimonial v-bind="testimonial" />
         </div>
       </UPageColumns>
-    </ULandingSection>
+    </ULandingSection> -->
 
     <ULandingSection class="bg-primary-50 dark:bg-primary-400 dark:bg-opacity-10">
       <ULandingCTA
@@ -120,7 +120,7 @@ useSeoMeta({
         :card="false"
       />
     </ULandingSection>
-
+<!-- 
     <ULandingSection
       id="faq"
       :title="page.faq.title"
@@ -140,6 +140,6 @@ useSeoMeta({
         }"
         class="max-w-4xl mx-auto"
       />
-    </ULandingSection>
+    </ULandingSection> -->
   </div>
 </template>
