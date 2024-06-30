@@ -43,7 +43,7 @@ features:
       description: Looking for something you read years ago? Old posts remain accessible through a well-designed search function.
       icon: i-heroicons-book-open
     - title: Complete
-      description: The community is much more than feed of posts. It includes event calendars, classrooms, and more.
+      description: The community is much more than a feed of posts. It includes event calendars, classrooms, and more.
       icon: i-heroicons-rectangle-stack
     - title: Fun
       description: Compete in the community leaderboards by writing great posts that help or inspire others.
